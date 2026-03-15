@@ -33,7 +33,7 @@ stock-market-eda/
 | Records | 619,040 rows |
 | Companies | 505 stocks |
 | Period | February 2013 — February 2018 |
-| Columns | `date`, `open`, `high`, `low`, `close`, `volume`, `symbol` |
+| Columns | `date`, `open`, `high`, `low`, `close`, `volume`, `name` |
 
 > **Note:** The raw CSV file is not included in this repository due to size. Download it directly from the Kaggle link above and place it in the `data/` folder before running the notebook.
 
