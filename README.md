@@ -114,8 +114,8 @@ B.E. Computer Science — BITS Pilani Dubai
 IBM Data Science
 Microsoft Power BI Data Analyst
 
-[![https://www.linkedin.com/in/shailendra-gadakari-b0a465332/](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
-[![https://github.com/shailendragadakari](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shailendra-gadakari-b0a465332/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/shailendragadakari)
 
 ---
 
