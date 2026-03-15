@@ -14,12 +14,9 @@ The project demonstrates a complete data analyst workflow — from raw data inge
 
 ## 📂 Repository Structure
 
-```
-stock-market-eda/
-├── data/
-│   └── all_stocks_5yr.csv       # Raw dataset (download from Kaggle)
+```stock-market-eda/
 ├── stock_market_eda.ipynb        # Main analysis notebook
-├── stock_eda.db                  # SQLite database (auto-generated)
+├── .gitignore                    # Excludes data files and database
 └── README.md
 ```
 
