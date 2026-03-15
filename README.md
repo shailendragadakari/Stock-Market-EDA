@@ -1,6 +1,6 @@
 # 📈 S&P 500 Stock Market - Exploratory Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey) ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange) ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Matplotlib%20%7C%20Seaborn-green)
+![Python](https://img.shields.io/badge/Python-3.14.2-blue) ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey) ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange) ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Matplotlib%20%7C%20Seaborn-green)
 
 ---
 
