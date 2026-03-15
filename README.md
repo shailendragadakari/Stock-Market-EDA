@@ -41,7 +41,7 @@ stock-market-eda/
 
 ## 🛠️ Tools & Technologies
 
-- **Language:** Python 3.x
+- **Language:** Python 3.14.2
 - **Environment:** Jupyter Notebook in VS Code
 - **Database:** SQLite (via Python's built-in `sqlite3` module)
 - **Libraries:** `pandas`, `matplotlib`, `seaborn`
@@ -57,14 +57,14 @@ The notebook is organised into the following sections:
 | 1. Data Loading | Imports CSV into SQLite database using Pandas |
 | 2. Libraries & Connection | Establishes SQLite connection and configures plot styling |
 | 3. Data Profiling | Validates row counts, company count, and date range |
-| 4. Top 15 Stocks by Avg Closing Price | Identifies highest nominally valued stocks over the period |
+| 4. Top 15 Stocks by Average Closing Price | Identifies highest nominally valued stocks over the period |
 | 5. Market Volatility by Year | Measures avg daily price range per year as a volatility proxy |
 | 6. Top 10 Single-Day Gains | Finds the largest single-day percentage price gains |
 | 7. Volume: Up vs Down Days | Compares avg trading volume across up, down, and flat days |
 | 8. Most Consistent Stocks | Uses a CTE and stability ratio to rank price consistency |
-| 10. APTV Price Trend | Time-series visualisation of the most consistent stock |
-| 11. Most Traded Stocks | Ranks stocks by average daily trading volume |
-| 13. Top 10 Single-Day Losses | Finds the largest single-day percentage price losses |
+| 9. APTV Price Trend | Time-series visualisation of the most consistent stock |
+| 10. Most Traded Stocks | Ranks stocks by average daily trading volume |
+| 11. Top 10 Single-Day Losses | Finds the largest single-day percentage price losses |
 | 12. Summary & Conclusions | Consolidated findings across all analysis sections |
 
 ---
@@ -111,8 +111,8 @@ The notebook is organised into the following sections:
 
 **Shailendra Gadakari**  
 B.E. Computer Science — BITS Pilani Dubai  
-IBM Data Science
-Microsoft Power BI Data Analyst
+IBM Data Science Professional Certificate — Coursera
+Microsoft Power BI Data Analyst Professional Certificate — Coursera
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shailendra-gadakari-b0a465332/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/shailendragadakari)
